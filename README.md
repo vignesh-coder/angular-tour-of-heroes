@@ -1,2 +1,2 @@
 # angular-tour-of-heroes
-My first project using angular 7
+My first project in angular 7
